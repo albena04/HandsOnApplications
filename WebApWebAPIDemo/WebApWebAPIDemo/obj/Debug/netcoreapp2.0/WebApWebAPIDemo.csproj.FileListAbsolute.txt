@@ -1,0 +1,11 @@
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\bin\Debug\netcoreapp2.0\WebApWebAPIDemo.deps.json
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\bin\Debug\netcoreapp2.0\WebApWebAPIDemo.runtimeconfig.json
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\bin\Debug\netcoreapp2.0\WebApWebAPIDemo.runtimeconfig.dev.json
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\bin\Debug\netcoreapp2.0\WebApWebAPIDemo.dll
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\bin\Debug\netcoreapp2.0\WebApWebAPIDemo.pdb
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\obj\Debug\netcoreapp2.0\WebApWebAPIDemo.csprojResolveAssemblyReference.cache
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\obj\Debug\netcoreapp2.0\WebApWebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\obj\Debug\netcoreapp2.0\WebApWebAPIDemo.AssemblyInfoInputs.cache
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\obj\Debug\netcoreapp2.0\WebApWebAPIDemo.AssemblyInfo.cs
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\obj\Debug\netcoreapp2.0\WebApWebAPIDemo.dll
+C:\Users\AlbenaPouline\source\repos\WebApWebAPIDemo\WebApWebAPIDemo\obj\Debug\netcoreapp2.0\WebApWebAPIDemo.pdb

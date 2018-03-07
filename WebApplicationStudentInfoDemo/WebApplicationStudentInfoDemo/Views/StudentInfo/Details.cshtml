@@ -1,0 +1,54 @@
+﻿@model WebApplicationStudentInfoDemo.Models.StudentInfo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>StudentInfo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Branch)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Branch)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GraduatedDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GraduatedDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.OverallPercentage)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OverallPercentage)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmailId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.StudentId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

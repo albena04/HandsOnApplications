@@ -1,0 +1,2 @@
+C:\Users\AlbenaPouline\source\repos\MovieReservationApp\MovieReservationApp.Tests\obj\Debug\MovieReservationApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\AlbenaPouline\source\repos\MovieReservationApp\MovieReservationApp.Tests\obj\Debug\MovieReservationApp.Tests.csproj.CoreCompileInputs.cache

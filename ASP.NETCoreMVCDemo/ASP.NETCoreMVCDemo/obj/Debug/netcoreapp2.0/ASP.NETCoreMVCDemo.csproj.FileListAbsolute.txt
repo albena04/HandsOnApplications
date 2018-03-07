@@ -1,0 +1,11 @@
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\bin\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.deps.json
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\bin\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.runtimeconfig.json
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\bin\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.runtimeconfig.dev.json
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\bin\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.dll
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\obj\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.csprojResolveAssemblyReference.cache
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\obj\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.csproj.CoreCompileInputs.cache
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\obj\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.AssemblyInfoInputs.cache
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\obj\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.AssemblyInfo.cs
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\bin\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.pdb
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\obj\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.dll
+C:\Users\AlbenaPouline\Desktop\Job Search - 2018\HandsOn - .NET\ASP.NETCoreMVCDemo\ASP.NETCoreMVCDemo\obj\Debug\netcoreapp2.0\ASP.NETCoreMVCDemo.pdb

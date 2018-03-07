@@ -1,0 +1,57 @@
+﻿@model WebApplicationStudentInfoDemo.Models.StudentInfo
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>StudentInfo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Branch)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Branch)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GraduatedDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GraduatedDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.OverallPercentage)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OverallPercentage)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmailId)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="StudentId" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

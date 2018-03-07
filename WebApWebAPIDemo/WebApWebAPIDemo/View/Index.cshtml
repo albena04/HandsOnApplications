@@ -1,0 +1,61 @@
+﻿@model IEnumerable<WebApWebAPIDemo.Models.StudentInfo>
+@{
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+
+    <table style="width:100%;">
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.StudentId)</a>
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Branch)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GraduatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OverallPercentage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailId)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Branch)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GraduatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OverallPercentage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailId)
+            </td>
+        </tr>
+}
+    </table>
+}
